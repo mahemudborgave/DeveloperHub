@@ -1,6 +1,5 @@
 # react projects
 
-A brief description of your project and its purpose.
 
 ---
 
