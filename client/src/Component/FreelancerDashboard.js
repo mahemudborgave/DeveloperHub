@@ -50,13 +50,13 @@ const ClickHandler4 = () =>{
 }
 
 
-    return (//loading && profile == null ? <LoadingIcon /> :
+return (//loading && profile == null ? <LoadingIcon /> :
       <Fragment>
       <div>
           <DashboardNavBar />
 <div >
   <Fragment>
-  <h3 className="text-center">
+  <h3 className="text-center p-4">
   Freelancer's <Badge bg="success">Dashboard</Badge>
     </h3>
     </Fragment>
