@@ -1,0 +1,7 @@
+{
+   "MONGODB_URI" : "mongodb+srv://mahemud:mahemud@cluster0.y3zrjtm.mongodb.net/developerhub",
+   "jwtsecret" : "token",
+   "jwtsecretbusiness": "token",
+   "clientIdGitHub":"73f1df9e674625eff954",
+   "SecretGitHub":"a49210586b6681825c60f7261f9669eb09cf0111"
+}
